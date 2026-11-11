@@ -1,0 +1,45 @@
+{
+  "result": "PASS",
+  "source": "constructpm_test",
+  "restored_database": "constructpm_restore_4a4902a6_test",
+  "tables": {
+    "alembic_version": {
+      "rows": 1,
+      "hash": "180c4f2c924a47bb170759855e8fbccc3a3d0930893f9e1bb6abc19fbb761a7f"
+    },
+    "audit_events": {
+      "rows": 423,
+      "hash": "625673e8d1f4796afbe23cda0e8f2b391273ac7b8bd10a036d069812bd07bb45"
+    },
+    "calendar_versions": {
+      "rows": 20,
+      "hash": "9a89094227cac0391dfb50c15ef65c4031f506bab59f2adca741119be9778546"
+    },
+    "invitations": {
+      "rows": 58,
+      "hash": "28dbf2e3e178bfa15ac4d4403e3194509f8b0305743899e75a377cd2849362a4"
+    },
+    "memberships": {
+      "rows": 177,
+      "hash": "01c088ff69b8a1f0e634f0689321d5364bf22f3799986a1f59f3c71d3824c6a6"
+    },
+    "organizations": {
+      "rows": 124,
+      "hash": "fa346ef213031b775828a9ae4a66754a37210a412868fde459bdba3aadc1bd70"
+    },
+    "project_memberships": {
+      "rows": 42,
+      "hash": "f6e63de2db4b3808cd408ad3f5bcc825c224176c881ce11a174e1018fd1b5f19"
+    },
+    "projects": {
+      "rows": 109,
+      "hash": "b3c602874ce2cd8dc17950e4ed2f1c9f1cde65f80ba6109d7400e3efde352025"
+    },
+    "users": {
+      "rows": 3,
+      "hash": "8f3b35389d0f5df574294dbbb5e6ac5d2c4144cad305c1861e5c682ccbcd53da"
+    }
+  },
+  "policy_hash": "8f1f0ee6a8700cadc40cd7f05425b1e88be1ced9bccdcfbbfc52ecd7a40f326f",
+  "note": "Synthetic local restore only; this is not proof of production RPO/RTO or object-store recovery."
+}

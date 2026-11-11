@@ -1,0 +1,2 @@
+# Optional installer-compiler repair only; not an API/runtime dependency.
+scons==4.11.1

@@ -1,0 +1,5 @@
+[[permission]]
+identifier = "allow-oidc-sign-in"
+description = "Allow the bundled main window to start an HTTPS OIDC PKCE sign-in in the system browser."
+commands.allow = ["oidc_sign_in"]
+

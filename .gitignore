@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+node_modules/
+dist/
+target/
+apps/desktop/src-tauri/gen/
+*.log
+test-results/
+

@@ -1,0 +1,12 @@
+{
+  "result": "installer build PASS",
+  "installer": "ConstructPM_AI_0.1.0_Setup.exe",
+  "bytes": 2947956,
+  "sha256": "153c5d735e9fdae635520cbf797896dce32b39c051e64b9d9b44493afeefc46f",
+  "installer_machine": "0x14c",
+  "application_architecture": "Windows x86-64",
+  "compiler": "NSIS 3.13 rebuilt as x64",
+  "installed": false,
+  "uninstall_tested": false,
+  "signed": false
+}

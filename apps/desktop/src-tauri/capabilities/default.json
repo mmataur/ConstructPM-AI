@@ -1,0 +1,1 @@
+{"$schema":"../gen/schemas/desktop-schema.json","identifier":"main-capability","description":"Bundled main window only. No filesystem, shell, remote-origin or updater access.","windows":["main"],"permissions":["core:default","allow-oidc-sign-in"]}
